@@ -1,0 +1,4 @@
+soundfile
+numpy
+matplotlib
+scipy
